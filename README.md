@@ -4,7 +4,7 @@ How to write secure code (and create secure software) and why everyone should
 write secure code.
 -------------------------------------------------------------------------------
 
-Author: Amit Choudhary
+Author: Amit Choudhary<br>
 Email: amitchoudhary0523 AT gmail DOT com
 
 These days, lots of software is getting hacked, and software hacking has become
