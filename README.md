@@ -1,4 +1,3 @@
-
 -------------------------------------------------------------------------------
 How to write secure code (and create secure software) and why everyone should
 write secure code.
