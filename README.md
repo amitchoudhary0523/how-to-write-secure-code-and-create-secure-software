@@ -1,7 +1,7 @@
--------------------------------------------------------------------------------
-How to write secure code (and create secure software) and why everyone should
-write secure code.
--------------------------------------------------------------------------------
+________________________________________________________________________________
+**How to write secure code (and create secure software) and why everyone should
+write secure code.**
+________________________________________________________________________________
 
 Author: Amit Choudhary<br>
 Email: amitchoudhary0523 AT gmail DOT com
